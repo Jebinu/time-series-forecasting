@@ -1,1 +1,3 @@
 # time-series-forecasting
+
+Across industries, organizations commonly use time series data, which means any information collected over a regular interval of time, in their operations.Analyzing time series data yields insights like trends, seasonal patterns and forecasts into future events that can help generate profits.During a time series analysis, I need to perform trend decomposition and forecast future values. Decomposition allows you to visualize trends in your data, which is a great way to clearly explain their behavior. Finally, forecasting allows to anticipate future events that can aid in decision making. I can use many different techniques for this time series forecasting such as autoreggressive integrated moving average (ARIMA),AR model and MA model.
